@@ -50,3 +50,5 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+Examples/SW4STM32/F103C8xx/.DS_Store
+.DS_Store
