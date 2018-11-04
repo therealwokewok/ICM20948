@@ -49,8 +49,6 @@
 
 /* Private define ------------------------------------------------------------*/
 
-#define ICM_FSYNC_Pin GPIO_PIN_3
-#define ICM_FSYNC_GPIO_Port GPIOA
 #define ICM_CS_Pin GPIO_PIN_4
 #define ICM_CS_GPIO_Port GPIOA
 #define ICM_SCK_Pin GPIO_PIN_5
